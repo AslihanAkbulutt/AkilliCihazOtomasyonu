@@ -8,7 +8,7 @@ public class AnaislemPlatformu {
 
         p.attach(u1);
         p.attach(u2);
-        // p.notify("güncellendi...");
+        p.notify("güncellendi...");
         AgArayuzu agArayuzu = new AgArayuzu();
         agArayuzu.basla();
     }
