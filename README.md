@@ -1,1 +1,1 @@
-# Nesne-Yonelimli-Projee
+# Nesne-Yonelimli-Proje
